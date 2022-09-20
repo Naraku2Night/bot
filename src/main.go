@@ -1,7 +1,7 @@
 package main
 
 import (
-	bot2 "bot/bot"
+	bot2 "github.com/Naraku2Night/bot/bot"
 	"log"
 	"os"
 	"time"

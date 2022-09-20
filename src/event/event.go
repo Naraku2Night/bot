@@ -1,8 +1,8 @@
 package event
 
 import (
-	"bot/chat"
 	"encoding/json"
+	"github.com/Naraku2Night/bot/chat"
 )
 
 const (

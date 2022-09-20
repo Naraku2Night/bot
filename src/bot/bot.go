@@ -1,11 +1,11 @@
 package bot
 
 import (
-	"bot/chat"
-	"bot/event"
-	"bot/message"
 	"encoding/json"
 	"fmt"
+	"github.com/Naraku2Night/bot/chat"
+	"github.com/Naraku2Night/bot/event"
+	"github.com/Naraku2Night/bot/message"
 	"log"
 	"math"
 	"strconv"

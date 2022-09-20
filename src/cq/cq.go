@@ -1,10 +1,10 @@
 package cq
 
 import (
-	"bot/chat"
-	"bot/message"
-	"bot/tool"
 	"fmt"
+	"github.com/Naraku2Night/bot/chat"
+	"github.com/Naraku2Night/bot/message"
+	"github.com/Naraku2Night/bot/tool"
 )
 
 const (

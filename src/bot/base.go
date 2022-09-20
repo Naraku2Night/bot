@@ -1,12 +1,12 @@
 package bot
 
 import (
-	"bot/chat"
-	"bot/cq"
-	"bot/event"
-	"bot/message"
 	"encoding/json"
 	"fmt"
+	"github.com/Naraku2Night/bot/chat"
+	"github.com/Naraku2Night/bot/cq"
+	"github.com/Naraku2Night/bot/event"
+	"github.com/Naraku2Night/bot/message"
 	"github.com/gorilla/websocket"
 	"log"
 	"math/rand"

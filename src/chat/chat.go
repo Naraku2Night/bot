@@ -1,7 +1,7 @@
 package chat
 
 import (
-	"bot/message"
+	"github.com/Naraku2Night/bot/message"
 )
 
 type MessageChain struct {
